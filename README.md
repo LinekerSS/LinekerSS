@@ -51,7 +51,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-[![Linkedin: Lineker Santaterra](https://img.shields.io/badge/-GabrielBonin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lineker-santaterra/)
+[![Linkedin: Lineker Santaterra](https://img.shields.io/badge/-LinekerSantaterra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lineker-santaterra/)
 [![Email Badge](https://img.shields.io/badge/-lineker_ss@outlook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lineker_ss@outlook.com)](mailto:lineker_ss@outlook.com)
 [![GitHub Lineker Santaterra]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LinekerSS/LinekerSS)
 
