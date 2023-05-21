@@ -53,7 +53,7 @@
 
 [![Linkedin: Lineker Santaterra](https://img.shields.io/badge/-LinekerSantaterra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/lineker-santaterra/)
 [![Email Badge](https://img.shields.io/badge/-lineker_ss@outlook.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:lineker_ss@outlook.com)](mailto:lineker_ss@outlook.com)
-[![GitHub Lineker Santaterra]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LinekerSS/LinekerSS)
+[![GitHub Lineker Santaterra]( https://img.shields.io/github/followers/:user?label=Follow)](https://github.com/LinekerSS/LinekerSS)
 
 
 
