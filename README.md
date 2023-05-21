@@ -7,7 +7,7 @@
 
 🎓   Cursando Análise e Desenvolvimento de Sistemas e formado em engenharia de controle e automação.
 
-💼   Em busca de uma oportunidade de reelocação no mercado como full-stack web ou mobile ou DevOps.
+💼   Aberto a oportunidades mercado como fullStack web, mobile ou desktop.
 
 🌱   Aprendendo sobre Desenvolvimento Mobile com Java e Swift.
 
