@@ -9,7 +9,7 @@
 
 💼   Em busca de uma oportunidade de reelocação no mercado como full-stack web ou mobile ou DevOps.
 
-🌱   Aprendendo sobre Desenvolvimento iOS com Swift e Android com JAVA.
+🌱   Aprendendo sobre Desenvolvimento Mobile com Java e Swift.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
