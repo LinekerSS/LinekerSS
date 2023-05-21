@@ -16,6 +16,7 @@
 **Aplicações e Dados**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -26,7 +27,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) 
 ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
-![MongoDB]https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongoDB
+![MongoDB](https://img.shields.io/badge/-MongoDb-333333?style=flat&logo=mongoDB)
 
 
 **Utilidades**
