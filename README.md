@@ -9,7 +9,6 @@
 
 💼   Aberto a oportunidades mercado como fullStack web, mobile ou desktop.
 
-🌱   Aprendendo sobre Desenvolvimento Mobile com Java e Swift.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
