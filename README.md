@@ -14,7 +14,7 @@
 
 **Aplicações e Dados**
 
-![Java Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![Java Badge]
 ![PHP](https://img.shields.io/badge/-Php-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) 
