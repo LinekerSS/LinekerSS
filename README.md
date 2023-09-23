@@ -7,7 +7,7 @@
 
 🎓   Cursando Análise e Desenvolvimento de Sistemas e formado em engenharia de controle e automação.
 
-💼   Desenvolvedor FullStack MAKADU, sempre em busca de crescimento profissional
+💼   Desenvolvedor FullStack, sempre em busca de crescimento profissional
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
